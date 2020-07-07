@@ -1,0 +1,102 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.nav-item{
+    padding-left: 30px;
+}
+
+.white-bg{
+    background-color: white;
+}
+
+.carousel-indicators li{
+    background-color: gray;
+    width: 5px;
+    padding: 5px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.carousel-indicators .active{
+    width: 30px;
+    background-image: linear-gradient(90deg, orange, yellow);;
+}
+
+.buy-button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.buy-button img{
+    width: 18px;
+}
+
+.product-ad{
+    padding-bottom: 100px;
+}
+
+.carousel-item p{
+    padding: 40px 0;
+}
+
+.card{
+    text-align: center;
+    padding-top: 50px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gainsboro;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+.card-footer .buy-button{
+    margin: 20px 0;
+}
+
+.headline{
+    margin: 50px 0 30px 0;
+}
+
+.headline .see-all{
+    color: orange;
+}
+
+.categories{
+    margin-top: 100px;
+    margin-bottom: 100px;  
+}
+
+.underline{
+    width: 100px;
+    height: 7px;
+    background-image: linear-gradient(90deg, yellow, orange);
+    border-radius: 5px;
+}
+
+.cat-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 0 20px 0 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    margin-top: 50px;
+}
+
+.cat-img-inverse{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px 0 20px 0;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    margin-top: 50px;
+}
+
+.cat-img-right{
+    margin-top: 50px;
+}
